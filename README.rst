@@ -100,7 +100,7 @@ Other commands for developing are written in Makefile:
 .. code-block:: bash
 
   λ make
-    \{^_^}/ Commands
+    ༼ つ ◕_◕ ༽つ Commands
       build                Build docker container by env
       clean                clean Files compiled
       documentation        Make Documentation
